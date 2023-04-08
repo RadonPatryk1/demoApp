@@ -27,3 +27,4 @@ public class GroupTaskReadModel {
         this.done = done;
     }
 }
+
